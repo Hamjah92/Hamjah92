@@ -1,59 +1,40 @@
-
 <h1  align="center">Hello<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40px"  height="42px"> I'm Muhammadhamjah T</h1>
-
-  
 
 <!--
 
+
+
 **Hamjah92/Hamjah92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started: -->
 
-  
-
 ## 👨🏻‍💻 About Me:
-
-  
 
 <img  src="./thoughtworks-gif_dribbble.gif"  height="290px"  align="right" />
 
-  
-
 - 🙋‍♂️ All about me is at **[My Website](https://hamjah.vercel.app/)**
-
-  
 
 - 🌱 I’m currently learning `Devops`
 
-  
-
 - 👯 I’m looking to collaborate for `Dev Projects`
-
-  
 
 - 🤔 I’m looking for help with `Competitive Programming`
 
-  
-
 - 💬 Ask me about anything, Except History :sweat_smile:
-
-  
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-  
-
 - ⚡ Fun fact: I waste most of my time playing games
 
-  
-
 ## 🛠️ Technologies and Tools I use:
-
-  
 
 <p>
 
 <img  alt="Javascript"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+
+<img  alt="typescript"  src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=3178C6"  height="25px"/>
 
 <img  alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="25px"/>
 
@@ -61,23 +42,33 @@ Here are some ideas to get you started: -->
 
 <img  alt="MongoDB"  src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
 
-<img  alt="Nodejs"  src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img  alt="MySql"  src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"  height="25px"/>
 
+  <img  alt="postgresql"  src="https://img.shields.io/badge/-postgreSql-4169E1?style=flat-square&logo=postgreSql&logoColor=white"  height="25px"/>
+
+<img  alt="Nodejs"  src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+  
 <img  alt="npm"  src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"  height="25px"/>
 
 <img  alt="redux"  src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"  height="25px"/>
 
 <img  alt="MUI"  src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=%2361DAFB"  height="25px"/>
 
+<img  alt="PHP"  src="https://img.shields.io/badge/PHP-7175ac.svg?style=for-the-badge&logo=php&logoColor=white"  height="25px"/>
+
 <img  alt="Express"  src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"  height="25px"/>
 
 <img  alt="Tailwidcss"  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  height="25px"/>
 
+<img  alt="Adobe Xd"  src="https://img.shields.io/badge/adobe Xd-450135?style=for-the-badge&logo=adobexd&logoColor=FF61F6"  height="25px"/>
+
 <img  alt="NestJS"  src="https://img.shields.io/badge/NestJs-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=e0234e"  height="25px"/>
+
+<img  alt="Laravel"  src="https://img.shields.io/badge/Laravel-FFFFFF?style=for-the-badge&logo=laravel&logoColor=FF2D20" height="25px"/>
 
 <img  alt="Bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  height="25px"/>
 
-<img  alt="Material UI"  src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  height="25px"/>
+<img  alt="Material UI"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"  height="25px"/>
 
 <img  alt="Python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25px"/>
 
@@ -93,19 +84,13 @@ Here are some ideas to get you started: -->
 
 </p>
 
-  
-
 ## ❤️ Let's get connected:
-
-  
 
 <p>
 
 <a  href="https://hamjah.vercel.app/"  target="_blank">
 
 <img  alt="Github"  src="https://img.shields.io/badge/Hamjah.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white"  height="30px" /></a>
-
-  
 
 <a  href="https://www.linkedin.com/in/hamza-t-3a33a8139/"  target="_blank">
 
